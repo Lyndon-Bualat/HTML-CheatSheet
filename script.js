@@ -191,12 +191,12 @@ document.getElementById("link1").placeholder =
 // ------------------buttons---------------------
 document.getElementById("home").onclick = home;
 function home() {
-  window.open(" ");
+  window.open("https://lyndon-bualat.github.io/Portfolio/# ");
 }
 
 document.getElementById("cssLink").onclick = cssLink;
 function cssLink() {
-  window.open(" ");
+  window.open(" https://lyndon-bualat.github.io/CSS-CheatSheet/ ");
 }
 
 document.getElementById("myBtn1").onclick = myBtn1;
